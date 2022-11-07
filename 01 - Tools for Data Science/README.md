@@ -15,11 +15,9 @@ This course covers the tools and software that Data Science professionals use as
 - IBM Watson Studio
 - Can't forget about Git and GitHub&#10071; &#x1F63C;
 
-### Final Assignment of the Course
+## Final Assignment of the Course
 
 This final assignment demonstrates the implementation of using Jupyter Notebook on IBM Watson Studio. Below are the instructions for completing this first assignment, along with the Jupyter Notebook for this assignment.
-
-### Instructions
 
 ![Instructions for Final Assignment](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/blob/main/01%20-%20Tools%20for%20Data%20Science/Instructions%20for%20Final%20Assignment%20-%20Intro%20to%20Jupyter%20Notebook%20on%20IBM%20Watson%20Studio.jpg)
 
