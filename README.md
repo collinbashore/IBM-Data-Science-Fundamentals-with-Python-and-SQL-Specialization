@@ -1,7 +1,7 @@
 # IBM Data Science Fundamentals with Python and SQL Specialization
 
 <p align="center">
-<img src = "https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/blob/main/IBM%20logo.png">
+<img src = "https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/blob/main/data-science-fundamentals-specialization-v2.png">
 </p>
 
 ## About this Specialization
@@ -28,6 +28,6 @@ Course Number| Course Title|
 ---|:---|
 Course #1|[Tools for Data Science](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/tree/main/01%20-%20Tools%20for%20Data%20Science)|
 Course #2|[Python for Data Science, AI, and Development](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/tree/main/02%20-%20Python%20for%20Data%20Science%20and%20AI%20Development) |
-Course #3| Python Project for Data Science|
+Course #3| [Python Project for Data Science](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/tree/main/03%20-%20Python%20Project)|
 Course #4|[Databases and SQL for Data Science with Python](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/tree/main/04%20-%20Accessing%20SQL%20Databases%20using%20Python)|
-Course #5|Statistics for Data Science with Python|
+Course #5|[Statistics for Data Science with Python](https://github.com/collinbashore/IBM-Data-Science-Fundamentals-with-Python-and-SQL-Specialization/tree/main/05%20-%20Statistics%20for%20Data%20Science%20with%20Python)|
